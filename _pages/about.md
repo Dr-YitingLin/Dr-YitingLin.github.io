@@ -48,6 +48,7 @@ My current research focuses on the practical problems faced by the intersection 
 
 ## Masterpiece
 * **Representative Publications**
+   * <span style="color: red;">[NEW]</span>[Lin, Y.; Liao, Y.; Zeng, W.; Wei, Y.; Chen, D.; Yuan, X.; Li, Y.; Erkan, U.; Toktas, A.; Zhang, C.; Zhang, Y.; Gao, S. 3D Non-Degenerate Hyperchaos: Design, Analysis, and Application in Image Encryption. IEEE Transactions on Consumer Electronics. 2026, 1–1.] (https://doi.org/10.1109/tce.2026.3672135.)
    * <span style="color: red;">[ESI Hot Paper]</span>[ESI Highly Cited Paper] [Lin Y, Xie Z, Chen T, Cheng X, Wen H. Image privacy protection scheme based on high-quality reconstruction DCT compression and nonlinear dynamics. Expert Systems with Applications. 2024;257:124891.](http://www.yitinglin.top/publication/Image%20privacy%20protection%20scheme%20based%20on%20high-quality%20reconstruction%20DCT%20compression%20and%20nonlinear%20dynamics) [(Certificates)](http://www.yitinglin.top/Certificates/Hot Paper 1.jpg)
    * <span style="color: red;">[ESI Hot Paper]</span>[ESI Highly Cited Paper] [Wen H, Lin Y. Cryptanalysis of an image encryption algorithm using quantum chaotic map and DNA coding. Expert Systems with Applications. 2024;237:121514.](http://www.yitinglin.top/publication/Cryptanalysis%20of%20an%20image%20encryption%20algorithm%20using%20quantum%20chaotic%20map%20and%20DNA%20coding) [(Certificates)](http://www.yitinglin.top/Certificates/Hot Paper 2.jpg)
    * <span style="color: red;">[ESI Hot Paper]</span>[ESI Highly Cited Paper] [Wen H, Lin Y. Cryptanalyzing an image cipher using multiple chaos and DNA operations. Journal of King Saud University - Computer and Information Sciences. 2023;35(7):101612.](http://www.yitinglin.top/publication/Cryptanalyzing%20an%20image%20cipher%20using%20multiple%20chaos%20and%20DNA%20operations) [(Certificates)](http://www.yitinglin.top/Certificates/Hot Paper 3.jpg)
@@ -77,7 +78,6 @@ My current research focuses on the practical problems faced by the intersection 
    * ACM Transactions on Multimedia Computing, Communications, and Applications
    * IEEE Internet of Things Journal
    * IEEE MultiMedia
-   ---
    * Ain Shams Engineering Journal [(Certificates)](http://www.yitinglin.top/Certificates/Certificate_ASEJ_Recognised.pdf)
    * Alexandria Engineering Journal [(Certificates)](http://www.yitinglin.top/Certificates/Certificate_AEJ_Recognised.pdf)
    * Applied Artificial Intelligence
@@ -121,6 +121,8 @@ Alumni (University of Electronic Science and Technology of China):
 * Jiahe Shen, Mphil 2022.9-2025.8, Jobs at The 21st Research Institute of China Electronics Technology Group Corporation (CETC)​​. (Under Prof. Wenbin Cheng)
 
 ## NEWS
+[32] Lin, Y.; Liao, Y.; Zeng, W.; Wei, Y.; Chen, D.; Yuan, X.; Li, Y.; Erkan, U.; Toktas, A.; Zhang, C.; Zhang, Y.; Gao, S. 3D Non-Degenerate Hyperchaos: Design, Analysis, and Application in Image Encryption. IEEE Transactions on Consumer Electronics. 2026, 1–1. https://doi.org/10.1109/tce.2026.3672135.
+
 [31] Uğur Erkan; Feyza Toktas; Abdurrahim Toktas; Qiang Lai; Shuang Zhou; Yiting Lin; Suo Gao. Multi-Layer and Multi-Directional Image Encryption Algorithm Based on Hyperchaotic 3D Xin-She Yang Map. Expert Systems with Applications 2026, 304, 130808. https://doi.org/10.1016/j.eswa.2025.130808.
 
 [30] Yiting Lin;  Yunlong Liao;  Yunan Wei;  Wenjun Zeng;  Ugur Erkan;  Abdurrahim Toktas;  Yong Zhang;  Donglong Chen. Lightweight image encryption via four-dimensional Hénon memristor map and fast block permutation. Nonlinear Science and Control Engineering 2025, 1(2), 025390012. https://doi.org/10.36922/NSCE025390012
