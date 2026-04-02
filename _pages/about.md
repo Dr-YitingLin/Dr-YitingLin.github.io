@@ -75,6 +75,7 @@ My current research focuses on the practical problems faced by the intersection 
    * IEEE Transactions on Circuits and Systems II: Express Briefs
    * IEEE Transactions on Cybernetics
    * IEEE Transactions on Consumer Electronics
+   * ACM Computing Surveys
    * ACM Transactions on Multimedia Computing, Communications, and Applications
    * IEEE Internet of Things Journal
    * IEEE MultiMedia
