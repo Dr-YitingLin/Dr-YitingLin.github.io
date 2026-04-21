@@ -26,11 +26,11 @@ redirect_from:
 **I welcome all kinds of academic exchanges!**
 
 Here is **Yiting Lin（林一挺）**.
-I am currently a research assistant at Beijing Normal-Hong Kong Baptist University (BNBU), advised by [A.P. Donglong CHEN](https://staff.uic.edu.cn/donglongchen/en), within Guangdong Provincial/Zhuhai Key Laboratory of Interdisciplinary Research and Application for Data Science. I am also a PI (Teaching and Research Position/Research Assistant) in [Prof. Wenbin Cheng](https://jsjxy.zsc.edu.cn/szdw/szdwzg/1dje8dg8bfln5.shtml)'s postgraduate research team at University of Electronic Science and Technology of China, Zhongshan Institute. I have published over 30 papers since 2022, including 3 papers from the first quartile journals of the Chinese Academy of Sciences. I have authored 9 highly cited papers according to the Essential Science Indicators (ESI), and 3 hot paper according to the ESI. I have served as a peer reviewer for prestigious journals including IEEE TIFS, IEEE TDSC, IEEE TMM, IEEE TIP, IEEE TCSVT, IEEE TCYB, IEEE TSMC-S, IEEE TCAS-I, IEEE TCAS-II, IEEE TBD, IEEE TII, IEEE TCE, IEEE TIE, ACM TOMM, etc., as well as for publications by  academic publishers such as Elsevier, Springer Nature, Wiley, IOP Publishing, Taylor&Francis, MDPI, etc.
+I am currently a research assistant at Beijing Normal-Hong Kong Baptist University (BNBU), advised by [A.P. Donglong CHEN](https://staff.uic.edu.cn/donglongchen/en), within Guangdong Provincial/Zhuhai Key Laboratory of Interdisciplinary Research and Application for Data Science. I am also a PI (Teaching and Research Position/Research Assistant) in [Prof. Wenbin Cheng](https://jsjxy.zsc.edu.cn/szdw/szdwzg/1dje8dg8bfln5.shtml)'s postgraduate research team at University of Electronic Science and Technology of China, Zhongshan Institute. I have published over 30 papers since 2022, including 3 papers from the first quartile journals of the Chinese Academy of Sciences. I have authored 10 highly cited papers according to the Essential Science Indicators (ESI), and 3 hot paper according to the ESI. I have served as a peer reviewer for prestigious journals including IEEE TIFS, IEEE TDSC, IEEE TMM, IEEE TIP, IEEE TCSVT, IEEE TCYB, IEEE TSMC-S, IEEE TCAS-I, IEEE TCAS-II, IEEE TBD, IEEE TII, IEEE TCE, IEEE TIE, ACM TOMM, etc., as well as for publications by  academic publishers such as Elsevier, Springer Nature, Wiley, IOP Publishing, Taylor&Francis, MDPI, etc.
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - YitingLin [at] ieee.org
 
-Real-time data: <a href='https://scholar.google.com/citations?user=yh9vRvQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url_citations | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>  <a href='https://scholar.google.com/citations?user=yh9vRvQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url_hindex | url_encode }}&logo=Google%20Scholar&labelColor=0000ff&color=ffa500&style=plastic&label=H-index"></a>
+Real-time data: <a href='https://scholar.google.com/citations?user=yh9vRvQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url_citations | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>  <a href='https://scholar.google.com/citations?user=yh9vRvQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url_hindex | url_encode }}&logo=Google%20Scholar&labelColor=0000ff&color=ffa500&style=plastic&label=H-index"></a> ESI Highly Cited Paper: 10. <span style="color: red;">ESI Hot Cited Paper: 3.</span>
 
 ---
 
@@ -58,7 +58,6 @@ My current research focuses on the practical problems faced by the intersection 
    * [ESI Highly Cited Paper] [Wen H, Lin Y, Feng Z. Cryptanalyzing a bit-level image encryption algorithm based on chaotic maps. Engineering Science and Technology, an International Journal. 2024;51:101634.](http://www.yitinglin.top/publication/Cryptanalyzing%20a%20bit-level%20image%20encryption%20algorithm%20based%20on%20chaotic%20maps) 
    * [ESI Highly Cited Paper] [Wen H, Lin Y, Kang S, Zhang X, Zou K. Secure image encryption algorithm using chaos-based block permutation and weighted bit planes chain diffusion. iScience. 2024;27(1):108610.](http://www.yitinglin.top/publication/Secure%20image%20encryption%20algorithm%20using%20chaos-based%20block%20permutation%20and%20weighted%20bit%20planes%20chain%20diffusion) 
    * [ESI Highly Cited Paper] [Wen H, Lin Y, Xie Z, Liu T. Chaos-based block permutation and dynamic sequence multiplexing for video encryption. Sci Rep. 2023;13(1). (Corresponding author)](http://www.yitinglin.top/publication/Chaos-based%20block%20permutation%20and%20dynamic%20sequence%20multiplexing%20for%20video%20encryption)
-   * [ESI Highly Cited Paper] [Wen H, Kang S, Wu Z, Lin Y, Huang Y. Dynamic RNA Coding Color Image Cipher Based on Chain Feedback Structure. Mathematics. 2023;11(14):3133. (Corresponding author)](http://www.yitinglin.top/publication/Dynamic%20RNA%20Coding%20Color%20Image%20Cipher%20Based%20on%20Chain%20Feedback%20Structure) 
    * [Read More](https://orcid.org/0000-0003-4159-3132)
 
 ---
@@ -156,13 +155,13 @@ Alumni (University of Electronic Science and Technology of China):
 
 [20] Uğur Erkan;  Abdurrahim Toktas;  Feyza Toktas;  Yiting Lin;  Suo Gao. Hybridization of benchmark functions for a high-performance 1D chaotic map and image encryption application. Nonlinear Science and Control Engineering 2025, 1(2), 025340010. https://doi.org/10.36922/NSCE025340010
 
-[19] Wenjun Zeng; Chongfu Zhang; Xinshuai Liang; Jiebing Xia; Yue Lin; Yiting Lin. Intrusion Detection-Embedded Chaotic Encryption via Hybrid Modulation for Data Center Interconnects. Opt. Lett. 2025, 50 (13), 4450. https://doi.org/10.1364/ol.566608.
+[19] [ESI Highly Cited Paper] Wenjun Zeng; Chongfu Zhang; Xinshuai Liang; Jiebing Xia; Yue Lin; Yiting Lin. Intrusion Detection-Embedded Chaotic Encryption via Hybrid Modulation for Data Center Interconnects. Opt. Lett. 2025, 50 (13), 4450. https://doi.org/10.1364/ol.566608.
 
-[18] Yiting Lin; Zhiyu Xie; Tingting Chen; Xiyuan Cheng; Heping Wen. Image Privacy Protection Scheme Based on High-Quality Reconstruction DCT Compression and Nonlinear Dynamics. Expert Systems with Applications 2024, 257, 124891. https://doi.org/10.1016/j.eswa.2024.124891.
+[18] <span style="color: red;">[ESI Hot Paper]</span>[ESI Highly Cited Paper] Yiting Lin; Zhiyu Xie; Tingting Chen; Xiyuan Cheng; Heping Wen. Image Privacy Protection Scheme Based on High-Quality Reconstruction DCT Compression and Nonlinear Dynamics. Expert Systems with Applications 2024, 257, 124891. https://doi.org/10.1016/j.eswa.2024.124891.
 
 [17] Zhiyu Xie; Yiting Lin; Tengyu Liu; Heping Wen. Face Privacy Protection Scheme by Security-Enhanced Encryption Structure and Nonlinear Dynamics. iScience 2024, 27 (9), 110768. https://doi.org/10.1016/j.isci.2024.110768.
 
-[16] Heping Wen; Yiting Lin; Lincheng Yang; Ruiting Chen. Cryptanalysis of an Image Encryption Scheme Using Variant Hill Cipher and Chaos. Expert Systems with Applications 2024, 250, 123748. https://doi.org/10.1016/j.eswa.2024.123748.
+[16] [ESI Highly Cited Paper] Heping Wen; Yiting Lin; Lincheng Yang; Ruiting Chen. Cryptanalysis of an Image Encryption Scheme Using Variant Hill Cipher and Chaos. Expert Systems with Applications 2024, 250, 123748. https://doi.org/10.1016/j.eswa.2024.123748.
 
 [15] Lei Zhang; Yiting Lin; Xinyu Yang; Tingting Chen; Xiyuan Cheng; Wenbin Cheng. From Sample Poverty to Rich Feature Learning: A New Metric Learning Method for Few-Shot Classification. IEEE Access 2024, 12, 124990–125002. https://doi.org/10.1109/access.2024.3444483.
 
@@ -170,25 +169,25 @@ Alumni (University of Electronic Science and Technology of China):
 
 [13] Heping Wen; Lincheng Yang; Chixin Bai; Yiting Lin; Tengyu Liu; Lei Chen; Yingchun Hu; Daojing He. Exploiting High-Quality Reconstruction Image Encryption Strategy by Optimized Orthogonal Compressive Sensing. Sci Rep 2024, 14 (1). https://doi.org/10.1038/s41598-024-59277-z.
 
-[12] Heping Wen; Yiting Lin; Zhaoyang Feng. Cryptanalyzing a Bit-Level Image Encryption Algorithm Based on Chaotic Maps. Engineering Science and Technology, an International Journal 2024, 51, 101634. https://doi.org/10.1016/j.jestch.2024.101634.
+[12] [ESI Highly Cited Paper] Heping Wen; Yiting Lin; Zhaoyang Feng. Cryptanalyzing a Bit-Level Image Encryption Algorithm Based on Chaotic Maps. Engineering Science and Technology, an International Journal 2024, 51, 101634. https://doi.org/10.1016/j.jestch.2024.101634.
 
-[11] Heping Wen; Yiting Lin. Cryptanalysis of an Image Encryption Algorithm Using Quantum Chaotic Map and DNA Coding. Expert Systems with Applications 2024, 237, 121514. https://doi.org/10.1016/j.eswa.2023.121514.
+[11] <span style="color: red;">[ESI Hot Paper]</span>[ESI Highly Cited Paper] Heping Wen; Yiting Lin. Cryptanalysis of an Image Encryption Algorithm Using Quantum Chaotic Map and DNA Coding. Expert Systems with Applications 2024, 237, 121514. https://doi.org/10.1016/j.eswa.2023.121514.
 
-[10] Heping Wen; Yiting Lin; Shenghao Kang; Xiangyu Zhang; Kun Zou. Secure Image Encryption Algorithm Using Chaos-Based Block Permutation and Weighted Bit Planes Chain Diffusion. iScience 2024, 27 (1), 108610. https://doi.org/10.1016/j.isci.2023.108610.
+[10] [ESI Highly Cited Paper] Heping Wen; Yiting Lin; Shenghao Kang; Xiangyu Zhang; Kun Zou. Secure Image Encryption Algorithm Using Chaos-Based Block Permutation and Weighted Bit Planes Chain Diffusion. iScience 2024, 27 (1), 108610. https://doi.org/10.1016/j.isci.2023.108610.
 
 [9] Heping Wen; Zhiyu Xie; Zhuxi Wu; Yiting Lin; Wei Feng. Exploring the Future Application of UAVs: Face Image Privacy Protection Scheme Based on Chaos and DNA Cryptography. Journal of King Saud University - Computer and Information Sciences 2024, 36 (1), 101871. https://doi.org/10.1016/j.jksuci.2023.101871.
 
 [8] Heping Wen; Ruiting Chen; Jieyi Yang; Tianle Zheng; Jiahao Wu; Wenxing Lin; Huilin Jian; Yiting Lin; Linchao Ma; Zhen Liu; Chongfu Zhang. Security Analysis of a Color Image Encryption Based on Bit-Level and Chaotic Map. Multimed Tools Appl 2023, 83 (2), 4133–4149. https://doi.org/10.1007/s11042-023-14921-0.
 
-[7] Heping Wen; Yiting Lin; Zhiyu Xie; Tengyu Liu. Chaos-Based Block Permutation and Dynamic Sequence Multiplexing for Video Encryption. Sci Rep 2023, 13 (1). https://doi.org/10.1038/s41598-023-41082-9.
+[7] [ESI Highly Cited Paper] Heping Wen; Yiting Lin; Zhiyu Xie; Tengyu Liu. Chaos-Based Block Permutation and Dynamic Sequence Multiplexing for Video Encryption. Sci Rep 2023, 13 (1). https://doi.org/10.1038/s41598-023-41082-9.
 
 [6] Heping Wen; Yiming Huang; Yiting Lin. High-Quality Color Image Compression-Encryption Using Chaos and Block Permutation. Journal of King Saud University - Computer and Information Sciences 2023, 35 (8), 101660. https://doi.org/10.1016/j.jksuci.2023.101660.
 
-[5] Heping Wen; Shenghao Kang; Zhuxi Wu; Yiting Lin; Yiming Huang. Dynamic RNA Coding Color Image Cipher Based on Chain Feedback Structure. Mathematics 2023, 11 (14), 3133. https://doi.org/10.3390/math11143133.
+[5] [ESI Highly Cited Paper] Heping Wen; Shenghao Kang; Zhuxi Wu; Yiting Lin; Yiming Huang. Dynamic RNA Coding Color Image Cipher Based on Chain Feedback Structure. Mathematics 2023, 11 (14), 3133. https://doi.org/10.3390/math11143133.
 
-[4] Heping Wen; Yiting Lin. Cryptanalyzing an Image Cipher Using Multiple Chaos and DNA Operations. Journal of King Saud University - Computer and Information Sciences 2023, 35 (7), 101612. https://doi.org/10.1016/j.jksuci.2023.101612.
+[4] <span style="color: red;">[ESI Hot Paper]</span>[ESI Highly Cited Paper] Heping Wen; Yiting Lin. Cryptanalyzing an Image Cipher Using Multiple Chaos and DNA Operations. Journal of King Saud University - Computer and Information Sciences 2023, 35 (7), 101612. https://doi.org/10.1016/j.jksuci.2023.101612.
 
-[3] Heping Wen; Jiahao Wu; Linchao Ma; Zhen Liu; Yiting Lin; Limengnan Zhou; Huilin Jian; Wenxing Lin; Linhao Liu; Tianle Zheng; Chongfu Zhang. Secure Optical Image Communication Using Double Random Transformation and Memristive Chaos. IEEE Photonics J. 2023, 15 (1), 1–11. https://doi.org/10.1109/jphot.2022.3233129.
+[3] [ESI Highly Cited Paper] Heping Wen; Jiahao Wu; Linchao Ma; Zhen Liu; Yiting Lin; Limengnan Zhou; Huilin Jian; Wenxing Lin; Linhao Liu; Tianle Zheng; Chongfu Zhang. Secure Optical Image Communication Using Double Random Transformation and Memristive Chaos. IEEE Photonics J. 2023, 15 (1), 1–11. https://doi.org/10.1109/jphot.2022.3233129.
 
 [2] Heping Wen; Zefeng Chen; Jiehong Zheng; Yiming Huang; Shuwei Li; Linchao Ma; Yiting Lin; Zhen Liu; Rui Li; Linhao Liu; Wenxing Lin; Jieyi Yang; Chongfu Zhang; Huaide Yang. Design and Embedded Implementation of Secure Image Encryption Scheme Using DWT and 2D-LASM. Entropy 2022, 24 (10), 1332. https://doi.org/10.3390/e24101332.
 
