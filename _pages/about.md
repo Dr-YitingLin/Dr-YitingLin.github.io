@@ -8,11 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-<title>Yiting Lin's Homepage</title>
-
 <meta name="description" content="I am currently a research assistant at Beijing Normal-Hong Kong Baptist University (BNBU), advised by A.P. Donglong CHEN, within Guangdong Provincial/Zhuhai Key Laboratory of Interdisciplinary Research and Application for Data Science. I am also a research professor (Non-Tenure-Track) in Prof. Wenbin Cheng's postgraduate research team at University of Electronic Science and Technology of China, Zhongshan Institute.">
 <meta name="keywords" content="Yiting Lin, 林一挺, Yiting Lin's Homepage, JatTing Lam">
-
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
@@ -22,42 +19,27 @@ redirect_from:
 {% assign url_citations = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 {% assign url_hindex = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio_hindex.json" %}
 
-
-**I welcome all kinds of academic exchanges!**
-
 Here is **Yiting Lin（林一挺）**.
 I am currently a research assistant at Beijing Normal-Hong Kong Baptist University (BNBU), advised by [A.P. Donglong CHEN](https://staff.uic.edu.cn/donglongchen/en), within Guangdong Provincial/Zhuhai Key Laboratory of Interdisciplinary Research and Application for Data Science. I am also a PI (Teaching and Research Position/Research Assistant) in [Prof. Wenbin Cheng](https://jsjxy.zsc.edu.cn/szdw/szdwzg/1dje8dg8bfln5.shtml)'s postgraduate research team at University of Electronic Science and Technology of China, Zhongshan Institute. I have published over 30 papers since 2022, including 3 papers from the first quartile journals of the Chinese Academy of Sciences. I have authored 10 highly cited papers according to the Essential Science Indicators (ESI), and 3 hot paper according to the ESI. I have served as a peer reviewer for prestigious journals including IEEE TIFS, IEEE TDSC, IEEE TMM, IEEE TIP, IEEE TCSVT, IEEE TCYB, IEEE TSMC-S, IEEE TCAS-I, IEEE TCAS-II, IEEE TBD, IEEE TII, IEEE TCE, IEEE TIE, ACM TOMM, etc., as well as for publications by  academic publishers such as Elsevier, Springer Nature, Wiley, IOP Publishing, Taylor&Francis, MDPI, etc.
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - YitingLin [at] ieee.org
 
-Real-time data: <a href='https://scholar.google.com/citations?user=yh9vRvQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url_citations | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>  <a href='https://scholar.google.com/citations?user=yh9vRvQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url_hindex | url_encode }}&logo=Google%20Scholar&labelColor=0000ff&color=ffa500&style=plastic&label=H-index"></a> ESI Highly Cited Paper: 10. <span style="color: red;">ESI Hot Cited Paper: 3.</span>
+Real-time data: <a href='https://scholar.google.com/citations?user=yh9vRvQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url_citations | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>  <a href='https://scholar.google.com/citations?user=yh9vRvQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url_hindex | url_encode }}&logo=Google%20Scholar&labelColor=0000ff&color=ffa500&style=plastic&label=H-index"></a> 🔥 <span style="color: lightcoral;">ESI Hot Paper: 3</span>🏆 <span style="color: lightpink;">ESI Highly Cited Paper: 10</span> 
 
 ---
 
-## Research Interests
-
-- Cryptography
-- Blockchain
-- Information Security 
-- Multimedia Security
-- Artificial Intelligence (ML/DL)
-
-My current research focuses on the practical problems faced by the intersection of cryptography and other disciplines in real-life applications. My interests are blockchain and fully homomorphic encryption and their applications in industrial IoT and life. My research also involves some areas of artificial intelligence. In short, advanced technologies such as cryptography, artificial intelligence, and the Internet have a positive impact on everyone's life. I hope to devote my talents to this meaningful cause and bring benefits to society.
-
----
-
-## Masterpiece
-* **Main Representative Publications**
-   * <span style="color: red;">[NEW]</span>Lin, Y.; Wei, Y.; Chen, D.; Li, Y.; Erkan, U.; Toktas, A.; Gao, S.; Zhang, Y. Cryptanalysis and Improvement of a Video Cryptosystem via Chaos and S-Box. ACM Transactions on Multimedia Computing, Communications and Applications. 2026, Early Access.[Website](https://doi.org/10.1145/3808699)
-   * <span style="color: red;">[NEW]</span>Lin, Y.; Liao, Y.; Zeng, W.; Wei, Y.; Chen, D.; Yuan, X.; Li, Y.; Erkan, U.; Toktas, A.; Zhang, C.; Zhang, Y.; Gao, S. 3D Non-Degenerate Hyperchaos: Design, Analysis, and Application in Image Encryption. IEEE Transactions on Consumer Electronics. 2026, Early Access.[Website](https://doi.org/10.1109/tce.2026.3672135.)
-   * <span style="color: red;">[ESI Hot Paper]</span>[ESI Highly Cited Paper] Lin Y, Xie Z, Chen T, Cheng X, Wen H. Image privacy protection scheme based on high-quality reconstruction DCT compression and nonlinear dynamics. Expert Systems with Applications. 2024;257:124891.[Website](http://www.yitinglin.top/publication/Image%20privacy%20protection%20scheme%20based%20on%20high-quality%20reconstruction%20DCT%20compression%20and%20nonlinear%20dynamics) [(Certificates)](http://www.yitinglin.top/Certificates/Hot Paper 1.jpg) [**Computer Academy of Guangdong Outstanding Research Papers**-Third Prize-2025]
-* **Other Representative Publications**
-   * <span style="color: red;">[ESI Hot Paper]</span>[ESI Highly Cited Paper] Wen H, Lin Y. Cryptanalysis of an image encryption algorithm using quantum chaotic map and DNA coding. Expert Systems with Applications. 2024;237:121514.[Website](http://www.yitinglin.top/publication/Cryptanalysis%20of%20an%20image%20encryption%20algorithm%20using%20quantum%20chaotic%20map%20and%20DNA%20coding) [(Certificates)](http://www.yitinglin.top/Certificates/Hot Paper 2.jpg) [**Computer Academy of Guangdong Outstanding Research Papers**-Third Prize-2023]
-   * <span style="color: red;">[ESI Hot Paper]</span>[ESI Highly Cited Paper] Wen H, Lin Y. Cryptanalyzing an image cipher using multiple chaos and DNA operations. Journal of King Saud University - Computer and Information Sciences. 2023;35(7):101612.[Website](http://www.yitinglin.top/publication/Cryptanalyzing%20an%20image%20cipher%20using%20multiple%20chaos%20and%20DNA%20operations) [(Certificates)](http://www.yitinglin.top/Certificates/Hot Paper 3.jpg) [**Computer Academy of Guangdong Outstanding Research Papers**-Third Prize-2025]
-   * [ESI Highly Cited Paper] Wen H, Lin Y, Yang L, Chen R. Cryptanalysis of an image encryption scheme using variant Hill cipher and chaos. Expert Systems with Applications. 2024;250:123748.[Website](http://www.yitinglin.top/publication/Cryptanalysis%20of%20an%20image%20encryption%20scheme%20using%20variant%20Hill%20cipher%20and%20chaos)   
-   * [ESI Highly Cited Paper] Wen H, Lin Y, Feng Z. Cryptanalyzing a bit-level image encryption algorithm based on chaotic maps. Engineering Science and Technology, an International Journal. 2024;51:101634.[Website](http://www.yitinglin.top/publication/Cryptanalyzing%20a%20bit-level%20image%20encryption%20algorithm%20based%20on%20chaotic%20maps) 
-   * [ESI Highly Cited Paper] Wen H, Lin Y, Kang S, Zhang X, Zou K. Secure image encryption algorithm using chaos-based block permutation and weighted bit planes chain diffusion. iScience. 2024;27(1):108610.[Website](http://www.yitinglin.top/publication/Secure%20image%20encryption%20algorithm%20using%20chaos-based%20block%20permutation%20and%20weighted%20bit%20planes%20chain%20diffusion) 
-   * [ESI Highly Cited Paper] Wen H, Lin Y, Xie Z, Liu T. Chaos-based block permutation and dynamic sequence multiplexing for video encryption. Sci Rep. 2023;13(1). (Corresponding author)[Website](http://www.yitinglin.top/publication/Chaos-based%20block%20permutation%20and%20dynamic%20sequence%20multiplexing%20for%20video%20encryption)
+## 🔍 Masterpiece
+* ** 👍 Main Representative Publications**
+   * <span style="color: red;">[NEW]</span>Lin, Y.; Wei, Y.; Chen, D.; Li, Y.; Erkan, U.; Toktas, A.; Gao, S.; Zhang, Y. Cryptanalysis and Improvement of a Video Cryptosystem via Chaos and S-Box. ACM Transactions on Multimedia Computing, Communications and Applications. 2026, Early Access.[🌏](https://doi.org/10.1145/3808699)
+   * <span style="color: red;">[NEW]</span>Lin, Y.; Liao, Y.; Zeng, W.; Wei, Y.; Chen, D.; Yuan, X.; Li, Y.; Erkan, U.; Toktas, A.; Zhang, C.; Zhang, Y.; Gao, S. 3D Non-Degenerate Hyperchaos: Design, Analysis, and Application in Image Encryption. IEEE Transactions on Consumer Electronics. 2026, Early Access.[🌏](https://doi.org/10.1109/tce.2026.3672135.)
+   * 🔥 <span style="color: lightcoral;">[ESI Hot Paper]</span>🏆 <span style="color: lightpink;">[ESI Highly Cited Paper]</span> Lin Y, Xie Z, Chen T, Cheng X, Wen H. Image privacy protection scheme based on high-quality reconstruction DCT compression and nonlinear dynamics. Expert Systems with Applications. 2024;257:124891.[🌏](http://www.yitinglin.top/publication/Image%20privacy%20protection%20scheme%20based%20on%20high-quality%20reconstruction%20DCT%20compression%20and%20nonlinear%20dynamics) [(Certificates)](http://www.yitinglin.top/Certificates/Hot Paper 1.jpg) [**Computer Academy of Guangdong Outstanding Research Papers**-Third Prize-2025]
+* ** 📌 Other Representative Publications**
+  * 🔥 <span style="color: lightcoral;">[ESI Hot Paper]</span>🏆 <span style="color: lightpink;">[ESI Highly Cited Paper]</span> Cryptanalysis of an image encryption algorithm using quantum chaotic map and DNA coding. <span style="color: gray;">Expert Systems with Applications.</span> [🌏](http://www.yitinglin.top/publication/Cryptanalysis%20of%20an%20image%20encryption%20algorithm%20using%20quantum%20chaotic%20map%20and%20DNA%20coding)
+  * 🔥 <span style="color: lightcoral;">[ESI Hot Paper]</span>🏆 <span style="color: lightpink;">[ESI Highly Cited Paper]</span> Cryptanalyzing an image cipher using multiple chaos and DNA operations. <span style="color: gray;">Journal of King Saud University - Computer and Information Sciences.</span> [🌏](http://www.yitinglin.top/publication/Cryptanalyzing%20an%20image%20cipher%20using%20multiple%20chaos%20and%20DNA%20operations)
+  * 🏆 <span style="color: lightpink;">[ESI Highly Cited Paper]</span> Cryptanalysis of an image encryption scheme using variant Hill cipher and chaos. <span style="color: gray;">Expert Systems with Applications.</span> [🌏](http://www.yitinglin.top/publication/Cryptanalysis%20of%20an%20image%20encryption%20scheme%20using%20variant%20Hill%20cipher%20and%20chaos)
+  * 🏆 <span style="color: lightpink;">[ESI Highly Cited Paper]</span> Cryptanalyzing a bit-level image encryption algorithm based on chaotic maps. <span style="color: gray;">Engineering Science and Technology, an International Journal.</span> [🌏](http://www.yitinglin.top/publication/Cryptanalyzing%20a%20bit-level%20image%20encryption%20algorithm%20based%20on%20chaotic%20maps)
+  * 🏆 <span style="color: lightpink;">[ESI Highly Cited Paper]</span> Secure image encryption algorithm using chaos-based block permutation and weighted bit planes chain diffusion. <span style="color: gray;">iScience.</span> [🌏](http://www.yitinglin.top/publication/Secure%20image%20encryption%20algorithm%20using%20chaos-based%20block%20permutation%20and%20weighted%20bit%20planes%20chain%20diffusion)
+  * 🏆 <span style="color: lightpink;">[ESI Highly Cited Paper]</span> Chaos-based block permutation and dynamic sequence multiplexing for video encryption. <span style="color: gray;">Sci Rep.</span> [🌏](http://www.yitinglin.top/publication/Chaos-based%20block%20permutation%20and%20dynamic%20sequence%20multiplexing%20for%20video%20encryption)
    * [Read More](https://orcid.org/0000-0003-4159-3132)
 
 ---
@@ -108,23 +90,24 @@ My current research focuses on the practical problems faced by the intersection 
 
 ---
 
-## Awards and Honors
-* **Computer Academy of Guangdong Outstanding Research Papers**-Third Prize-2025 Lin Y, Xie Z, Chen T, Cheng X, Wen H. Image privacy protection scheme based on high-quality reconstruction DCT compression and nonlinear dynamics. Expert Systems with Applications. 2024;257:124891.[Website](http://www.yitinglin.top/publication/Image%20privacy%20protection%20scheme%20based%20on%20high-quality%20reconstruction%20DCT%20compression%20and%20nonlinear%20dynamics)
-* **Computer Academy of Guangdong Outstanding Research Papers**-Third Prize-2025 Wen H, Lin Y. Cryptanalyzing an image cipher using multiple chaos and DNA operations. Journal of King Saud University - Computer and Information Sciences. 2023;35(7):101612.[Website](http://www.yitinglin.top/publication/Cryptanalyzing%20an%20image%20cipher%20using%20multiple%20chaos%20and%20DNA%20operations)
+## 🏆 Awards and Honors
 * **College Students’ Innovative Entrepreneurial Training Plan Program (SIETP)**-National-Level Project-2024  
 * **The 2024 Special Fund for the Cultivation of Guangdong College Students’ Scientific and Technological Innovation (“Climbing Program” Special Funds)**-Provincial-Level Key Project-2024 
-* **Computer Academy of Guangdong Outstanding Research Papers**-Third Prize-2023 Wen H, Lin Y. Cryptanalysis of an image encryption algorithm using quantum chaotic map and DNA coding. Expert Systems with Applications. 2024;237:121514.[Website](http://www.yitinglin.top/publication/Cryptanalysis%20of%20an%20image%20encryption%20algorithm%20using%20quantum%20chaotic%20map%20and%20DNA%20coding) 
-* **Guangdong Cyberspace Security Outstanding Research Papers**-Third Prize-2023 Heping Wen; Zhen Liu; Haowen Lai; Chongfu Zhang; Linhao Liu; Jieyi Yang; Yiting Lin; Yunqi Li; Yunlong Liao; Linchao Ma; Zefeng Chen; Rui Li. Secure DNA-Coding Image Optical Communication Using Non-Degenerate Hyperchaos and Dynamic Secret-Key. Mathematics 2022, 10 (17), 3180.[Website](https://doi.org/10.3390/math10173180.)
 * **The Guangdong Province Cybersecurity Industry Science and Technology Award**-Second Prize-2022 
+
+* **Computer Academy of Guangdong Outstanding Research Papers**-Third Prize-2025 🌟 Image privacy protection scheme based on high-quality reconstruction DCT compression and nonlinear dynamics. <span style="color: gray;">Expert Systems with Applications.</span>[🌏](http://www.yitinglin.top/publication/Image%20privacy%20protection%20scheme%20based%20on%20high-quality%20reconstruction%20DCT%20compression%20and%20nonlinear%20dynamics)
+* **Computer Academy of Guangdong Outstanding Research Papers**-Third Prize-2025 🌟 Cryptanalyzing an image cipher using multiple chaos and DNA operations. <span style="color: gray;">Journal of King Saud University - Computer and Information Sciences.</span>[🌏](http://www.yitinglin.top/publication/Cryptanalyzing%20an%20image%20cipher%20using%20multiple%20chaos%20and%20DNA%20operations)
+* **Computer Academy of Guangdong Outstanding Research Papers**-Third Prize-2023 🌟 Cryptanalysis of an image encryption algorithm using quantum chaotic map and DNA coding. <span style="color: gray;">Expert Systems with Applications.</span>[🌏](http://www.yitinglin.top/publication/Cryptanalysis%20of%20an%20image%20encryption%20algorithm%20using%20quantum%20chaotic%20map%20and%20DNA%20coding) 
+* **Guangdong Cyberspace Security Outstanding Research Papers**-Third Prize-2023 🌟 Secure DNA-Coding Image Optical Communication Using Non-Degenerate Hyperchaos and Dynamic Secret-Key. <span style="color: gray;">Mathematics.</span>[🌏](https://doi.org/10.3390/math10173180.)
 
 ---
 
-## Student Supervision
+## 👨‍🎓 Student Supervision
 Alumni (University of Electronic Science and Technology of China):
 * Lei Zhang, Mphil 2022.9-2025.8, Jobs at Beijing Kuaishou Technology Co., Ltd.​. (Under Prof. Wenbin Cheng)
 * Jiahe Shen, Mphil 2022.9-2025.8, Jobs at The 21st Research Institute of China Electronics Technology Group Corporation (CETC)​​. (Under Prof. Wenbin Cheng)
 
-## NEWS
+## 📢 NEWS
 [37] Zhang, J.; Zhou, W.; Wang, M.; Lin, Y. 3D-TCM-Driven Bit-Level Image Encryption via S-Box Feedback Algorithm. Entropy 2026, 28 (5), 535. https://doi.org/10.3390/e28050535.
 
 [36] Wei, Y.; Zhao, S.; Zhao, C.; Lin, Y.; Chen, D.; Zhao, M. Less Is More: Clustering with Adaptive Probability for Heterogeneous Federated Learning. Knowledge-Based Systems 2026, 116127. https://doi.org/10.1016/j.knosys.2026.116127.
