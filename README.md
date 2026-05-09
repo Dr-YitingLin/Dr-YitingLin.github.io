@@ -1,1 +1,1 @@
-# Academic Pages
+# Yiting Lin’s Homepage
