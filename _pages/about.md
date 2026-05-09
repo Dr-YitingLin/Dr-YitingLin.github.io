@@ -125,6 +125,12 @@ Alumni (University of Electronic Science and Technology of China):
 * Jiahe Shen, Mphil 2022.9-2025.8, Jobs at The 21st Research Institute of China Electronics Technology Group Corporation (CETC)​​. (Under Prof. Wenbin Cheng)
 
 ## NEWS
+[37] Zhang, J.; Zhou, W.; Wang, M.; Lin, Y. 3D-TCM-Driven Bit-Level Image Encryption via S-Box Feedback Algorithm. Entropy 2026, 28 (5), 535. https://doi.org/10.3390/e28050535.
+
+[36] Wei, Y.; Zhao, S.; Zhao, C.; Lin, Y.; Chen, D.; Zhao, M. Less Is More: Clustering with Adaptive Probability for Heterogeneous Federated Learning. Knowledge-Based Systems 2026, 116127. https://doi.org/10.1016/j.knosys.2026.116127.
+
+[35] Zhu, S.; Zeng, W.; Zhu, C.; Lin, Y. Visual Meaningful Image Encryption Algorithm Based on 3D Discrete Hyperchaotic Map and Compressive Sensing. Results in Engineering 2026, 110766. https://doi.org/10.1016/j.rineng.2026.110766.
+
 [34] Lin, Y.; Wei, Y.; Chen, D.; Li, Y.; Erkan, U.; Toktas, A.; Gao, S.; Zhang, Y. Cryptanalysis and Improvement of a Video Cryptosystem via Chaos and S-Box. ACM Transactions on Multimedia Computing, Communications and Applications. 2026, Early Access. https://doi.org/10.1145/3808699.
 
 [33] Zhang, Z.; Zhang, W.; Wang, M.; Ren, N.; Zhang, P.; Lin, Y. Robust Image Encryption Exploiting 2D Hyper-Chaos, Fractal Sierpiński Carpet Confusion, and Cascaded Diffusion. Symmetry 2026, 18 (4), 643. https://doi.org/10.3390/sym18040643.
