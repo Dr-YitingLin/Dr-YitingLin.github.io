@@ -58,31 +58,12 @@ Real-time data: <a href='https://scholar.google.com/citations?user=yh9vRvQAAAAJ'
    * IEEE Transactions on Circuits and Systems II: Express Briefs
    * IEEE Transactions on Cybernetics
    * IEEE Transactions on Consumer Electronics
-   * ACM Computing Surveys
-   * ACM Transactions on Multimedia Computing, Communications, and Applications
    * IEEE Internet of Things Journal
    * IEEE MultiMedia
-   * Ain Shams Engineering Journal [(Certificates)](http://www.yitinglin.top/Certificates/Certificate_ASEJ_Recognised.pdf)
-   * Alexandria Engineering Journal [(Certificates)](http://www.yitinglin.top/Certificates/Certificate_AEJ_Recognised.pdf)
-   * Applied Artificial Intelligence
-   * Applied soft computing [(Certificates)](http://www.yitinglin.top/Certificates/Certificate_ASOC_Recognised.pdf)
-   * Computers & security [(Certificates)](http://www.yitinglin.top/Certificates/Certificate_COSE_Recognised.pdf)
-   * Computer vision and image understanding [(Certificates)](http://www.yitinglin.top/Certificates/)
-   * Digital signal processing [(Certificates)](http://www.yitinglin.top/Certificates/)
-   * Engineering applications of artificial intelligence [(Certificates)](http://www.yitinglin.top/Certificates/Certificate_EAAI_Recognised.pdf)
-   * Expert systems with applications 
-   * Information Sciences [(Certificates)](http://www.yitinglin.top/Certificates/Certificate_INS_Recognised.pdf)
-   * IET information security
-   * Image and Vision Computing
-   * International journal of bifurcation and chaos in applied sciences and engineering
-   * iScience
-   * Journal of Information Security and Applications
-   * Journal of the Franklin Institute 
-   * Journal of King Saud University Computer and Information Sciences [(Certificates)](http://www.yitinglin.top/Certificates/Certificate_JKSUCI_Recognised.pdf)
-   * Journal of visual communication and image representation [(Certificates)](http://www.yitinglin.top/Certificates/Certificate_YJVCI_Recognised.pdf)
-   * Physica scripta [(IOP Trusted Reviewer)](https://accreditations.ioppublishing.org/aa9eb2aa-b910-4c32-b0cd-22c5e0890b35#acc.QuPa1Woy)
-   * The European physical journal plus
-   * [Read More](https://orcid.org/0000-0003-4159-3132)
+   * ACM Computing Surveys
+   * ACM Transactions on Privacy and Security
+   * ACM Transactions on Multimedia Computing, Communications, and Applications
+   * [Read More](https://www.yitinglin.top/Reviewer/)
 
 * **Associate Editor** of the following journals/conferences 
    * N/A
@@ -91,34 +72,31 @@ Real-time data: <a href='https://scholar.google.com/citations?user=yh9vRvQAAAAJ'
 ---
 
 ## 🏆 Awards and Honors
-* **College Students’ Innovative Entrepreneurial Training Plan Program (SIETP)**-National-Level Project-2024  
-* **The 2024 Special Fund for the Cultivation of Guangdong College Students’ Scientific and Technological Innovation (“Climbing Program” Special Funds)**-Provincial-Level Key Project-2024 
-* **The Guangdong Province Cybersecurity Industry Science and Technology Award**-Second Prize-2022 
-
 * **Computer Academy of Guangdong Outstanding Research Papers**-Third Prize-2025 🌟 Image privacy protection scheme based on high-quality reconstruction DCT compression and nonlinear dynamics. <span style="color: gray;">Expert Systems with Applications.</span>[🌏](http://www.yitinglin.top/publication/Image%20privacy%20protection%20scheme%20based%20on%20high-quality%20reconstruction%20DCT%20compression%20and%20nonlinear%20dynamics)
 * **Computer Academy of Guangdong Outstanding Research Papers**-Third Prize-2025 🌟 Cryptanalyzing an image cipher using multiple chaos and DNA operations. <span style="color: gray;">Journal of King Saud University - Computer and Information Sciences.</span>[🌏](http://www.yitinglin.top/publication/Cryptanalyzing%20an%20image%20cipher%20using%20multiple%20chaos%20and%20DNA%20operations)
 * **Computer Academy of Guangdong Outstanding Research Papers**-Third Prize-2023 🌟 Cryptanalysis of an image encryption algorithm using quantum chaotic map and DNA coding. <span style="color: gray;">Expert Systems with Applications.</span>[🌏](http://www.yitinglin.top/publication/Cryptanalysis%20of%20an%20image%20encryption%20algorithm%20using%20quantum%20chaotic%20map%20and%20DNA%20coding) 
 * **Guangdong Cyberspace Security Outstanding Research Papers**-Third Prize-2023 🌟 Secure DNA-Coding Image Optical Communication Using Non-Degenerate Hyperchaos and Dynamic Secret-Key. <span style="color: gray;">Mathematics.</span>[🌏](https://doi.org/10.3390/math10173180.)
-
+* [Read More](https://www.yitinglin.top/Awards/)
 ---
 
 ## 👨‍🎓 Student Supervision
 Alumni (University of Electronic Science and Technology of China):
 * Lei Zhang, Mphil 2022.9-2025.8, Jobs at Beijing Kuaishou Technology Co., Ltd.​. (Under Prof. Wenbin Cheng)
 * Jiahe Shen, Mphil 2022.9-2025.8, Jobs at The 21st Research Institute of China Electronics Technology Group Corporation (CETC)​​. (Under Prof. Wenbin Cheng)
+* Xinyu Yang, Mphil 2023.9-2026.8, Jobs at Beijing Kuaishou Technology Co., Ltd.​. (Under Prof. Wenbin Cheng)
 
 ## 📢 NEWS
-[37] Zhang, J.; Zhou, W.; Wang, M.; Lin, Y. 3D-TCM-Driven Bit-Level Image Encryption via S-Box Feedback Algorithm. Entropy 2026, 28 (5), 535. https://doi.org/10.3390/e28050535.
+[37] Jie Zhang; Wenjie Zhou; Mingxu Wang; Yiting Lin. 3D-TCM-Driven Bit-Level Image Encryption via S-Box Feedback Algorithm. Entropy 2026, 28 (5), 535. https://doi.org/10.3390/e28050535.
 
-[36] Wei, Y.; Zhao, S.; Zhao, C.; Lin, Y.; Chen, D.; Zhao, M. Less Is More: Clustering with Adaptive Probability for Heterogeneous Federated Learning. Knowledge-Based Systems 2026, 116127. https://doi.org/10.1016/j.knosys.2026.116127.
+[36] Yunan Wei; Shengnan Zhao; Chuan Zhao; Yiting Lin; Donglong Chen; Minghao Zhao. Less Is More: Clustering with Adaptive Probability for Heterogeneous Federated Learning. Knowledge-Based Systems 2026, 116127. https://doi.org/10.1016/j.knosys.2026.116127.
 
-[35] Zhu, S.; Zeng, W.; Zhu, C.; Lin, Y. Visual Meaningful Image Encryption Algorithm Based on 3D Discrete Hyperchaotic Map and Compressive Sensing. Results in Engineering 2026, 110766. https://doi.org/10.1016/j.rineng.2026.110766.
+[35] Shuqin Zhu; Wenjun Zeng; Congxu Zhu; Yiting Lin. Visual Meaningful Image Encryption Algorithm Based on 3D Discrete Hyperchaotic Map and Compressive Sensing. Results in Engineering 2026, 110766. https://doi.org/10.1016/j.rineng.2026.110766.
 
-[34] Lin, Y.; Wei, Y.; Chen, D.; Li, Y.; Erkan, U.; Toktas, A.; Gao, S.; Zhang, Y. Cryptanalysis and Improvement of a Video Cryptosystem via Chaos and S-Box. ACM Transactions on Multimedia Computing, Communications and Applications. 2026, Early Access. https://doi.org/10.1145/3808699.
+[34] Yiting Lin; Yunan Wei; Donglong Chen; Yupeng Li; Ugur Erkan; Abdurrahim Toktas; Suo Gao; Yong Zhang. Cryptanalysis and Improvement of a Video Cryptosystem via Chaos and S-Box. ACM Transactions on Multimedia Computing, Communications and Applications. 2026, Early Access. https://doi.org/10.1145/3808699.
 
-[33] Zhang, Z.; Zhang, W.; Wang, M.; Ren, N.; Zhang, P.; Lin, Y. Robust Image Encryption Exploiting 2D Hyper-Chaos, Fractal Sierpiński Carpet Confusion, and Cascaded Diffusion. Symmetry 2026, 18 (4), 643. https://doi.org/10.3390/sym18040643.
+[33] Zeyu Zhang; Wenqiang Zhang; Mingxu Wang; Na Ren; Peizhen Zhang; Yiting Lin. Robust Image Encryption Exploiting 2D Hyper-Chaos, Fractal Sierpiński Carpet Confusion, and Cascaded Diffusion. Symmetry 2026, 18 (4), 643. https://doi.org/10.3390/sym18040643.
 
-[32] Lin, Y.; Liao, Y.; Zeng, W.; Wei, Y.; Chen, D.; Yuan, X.; Li, Y.; Erkan, U.; Toktas, A.; Zhang, C.; Zhang, Y.; Gao, S. 3D Non-Degenerate Hyperchaos: Design, Analysis, and Application in Image Encryption. IEEE Transactions on Consumer Electronics. 2026, 10.1145/3808699. https://doi.org/10.1109/tce.2026.3672135.
+[32] Yiting Lin; Yunlong Liao; Wenjun Zeng; Yunan Wei; Donglong Chen; Xiaochen Yuan; Yupeng Li; Ugur Erkan; Abdurrahim Toktas; Chongfu Zhang; Yong Zhang; Suo Gao. 3D Non-Degenerate Hyperchaos: Design, Analysis, and Application in Image Encryption. IEEE Transactions on Consumer Electronics. 2026, 10.1145/3808699. https://doi.org/10.1109/tce.2026.3672135.
 
 [31] Uğur Erkan; Feyza Toktas; Abdurrahim Toktas; Qiang Lai; Shuang Zhou; Yiting Lin; Suo Gao. Multi-Layer and Multi-Directional Image Encryption Algorithm Based on Hyperchaotic 3D Xin-She Yang Map. Expert Systems with Applications 2026, 304, 130808. https://doi.org/10.1016/j.eswa.2025.130808.
 
