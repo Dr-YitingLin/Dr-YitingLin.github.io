@@ -29,18 +29,18 @@ Real-time data: <a href='https://scholar.google.com/citations?user=yh9vRvQAAAAJ'
 ---
 
 ## 🔍 Masterpiece
-* ** 👍 Main Representative Publications**
+* 👍 **Main Representative Publications**
    * <span style="color: red;">[NEW]</span>Lin, Y.; Wei, Y.; Chen, D.; Li, Y.; Erkan, U.; Toktas, A.; Gao, S.; Zhang, Y. Cryptanalysis and Improvement of a Video Cryptosystem via Chaos and S-Box. ACM Transactions on Multimedia Computing, Communications and Applications. 2026, Early Access.[🌏](https://doi.org/10.1145/3808699)
    * <span style="color: red;">[NEW]</span>Lin, Y.; Liao, Y.; Zeng, W.; Wei, Y.; Chen, D.; Yuan, X.; Li, Y.; Erkan, U.; Toktas, A.; Zhang, C.; Zhang, Y.; Gao, S. 3D Non-Degenerate Hyperchaos: Design, Analysis, and Application in Image Encryption. IEEE Transactions on Consumer Electronics. 2026, Early Access.[🌏](https://doi.org/10.1109/tce.2026.3672135.)
    * 🔥 <span style="color: red;">[ESI Hot Paper]</span>🏆 <span style="color: pink;">[ESI Highly Cited Paper]</span> Lin Y, Xie Z, Chen T, Cheng X, Wen H. Image privacy protection scheme based on high-quality reconstruction DCT compression and nonlinear dynamics. Expert Systems with Applications. 2024;257:124891.[🌏](http://www.yitinglin.top/publication/Image%20privacy%20protection%20scheme%20based%20on%20high-quality%20reconstruction%20DCT%20compression%20and%20nonlinear%20dynamics)  🔯 [**Computer Academy of Guangdong Outstanding Research Papers**-Third Prize-2025]
-* ** 📌 Other Representative Publications**
+* 📌 **Other Representative Publications**
   * 🔥 <span style="color: red;">[ESI Hot Paper]</span>🏆 <span style="color: pink;">[ESI Highly Cited Paper]</span> Cryptanalysis of an image encryption algorithm using quantum chaotic map and DNA coding. <span style="color: gray;">Expert Systems with Applications.</span> [🌏](http://www.yitinglin.top/publication/Cryptanalysis%20of%20an%20image%20encryption%20algorithm%20using%20quantum%20chaotic%20map%20and%20DNA%20coding)
   * 🔥 <span style="color: red;">[ESI Hot Paper]</span>🏆 <span style="color: pink;">[ESI Highly Cited Paper]</span> Cryptanalyzing an image cipher using multiple chaos and DNA operations. <span style="color: gray;">Journal of King Saud University - Computer and Information Sciences.</span> [🌏](http://www.yitinglin.top/publication/Cryptanalyzing%20an%20image%20cipher%20using%20multiple%20chaos%20and%20DNA%20operations)
   * 🏆 <span style="color: pink;">[ESI Highly Cited Paper]</span> Cryptanalysis of an image encryption scheme using variant Hill cipher and chaos. <span style="color: gray;">Expert Systems with Applications.</span> [🌏](http://www.yitinglin.top/publication/Cryptanalysis%20of%20an%20image%20encryption%20scheme%20using%20variant%20Hill%20cipher%20and%20chaos)
   * 🏆 <span style="color: pink;">[ESI Highly Cited Paper]</span> Cryptanalyzing a bit-level image encryption algorithm based on chaotic maps. <span style="color: gray;">Engineering Science and Technology, an International Journal.</span> [🌏](http://www.yitinglin.top/publication/Cryptanalyzing%20a%20bit-level%20image%20encryption%20algorithm%20based%20on%20chaotic%20maps)
   * 🏆 <span style="color: pink;">[ESI Highly Cited Paper]</span> Secure image encryption algorithm using chaos-based block permutation and weighted bit planes chain diffusion. <span style="color: gray;">iScience.</span> [🌏](http://www.yitinglin.top/publication/Secure%20image%20encryption%20algorithm%20using%20chaos-based%20block%20permutation%20and%20weighted%20bit%20planes%20chain%20diffusion)
   * 🏆 <span style="color: pink;">[ESI Highly Cited Paper]</span> Chaos-based block permutation and dynamic sequence multiplexing for video encryption. <span style="color: gray;">Sci Rep.</span> [🌏](http://www.yitinglin.top/publication/Chaos-based%20block%20permutation%20and%20dynamic%20sequence%20multiplexing%20for%20video%20encryption)
-   * [Read More](https://orcid.org/0000-0003-4159-3132)
+  * [Read More](https://orcid.org/0000-0003-4159-3132)
 
 ---
 
@@ -76,7 +76,7 @@ Real-time data: <a href='https://scholar.google.com/citations?user=yh9vRvQAAAAJ'
 * **Computer Academy of Guangdong Outstanding Research Papers**-Third Prize-2025 🌟 Cryptanalyzing an image cipher using multiple chaos and DNA operations. <span style="color: gray;">Journal of King Saud University - Computer and Information Sciences.</span>[🌏](http://www.yitinglin.top/publication/Cryptanalyzing%20an%20image%20cipher%20using%20multiple%20chaos%20and%20DNA%20operations)
 * **Computer Academy of Guangdong Outstanding Research Papers**-Third Prize-2023 🌟 Cryptanalysis of an image encryption algorithm using quantum chaotic map and DNA coding. <span style="color: gray;">Expert Systems with Applications.</span>[🌏](http://www.yitinglin.top/publication/Cryptanalysis%20of%20an%20image%20encryption%20algorithm%20using%20quantum%20chaotic%20map%20and%20DNA%20coding) 
 * **Guangdong Cyberspace Security Outstanding Research Papers**-Third Prize-2023 🌟 Secure DNA-Coding Image Optical Communication Using Non-Degenerate Hyperchaos and Dynamic Secret-Key. <span style="color: gray;">Mathematics.</span>[🌏](https://doi.org/10.3390/math10173180.)
-* [Read More](https://www.yitinglin.top/Awards/)
+* [**Read More**](https://www.yitinglin.top/Awards/)
 ---
 
 ## 👨‍🎓 Student Supervision
